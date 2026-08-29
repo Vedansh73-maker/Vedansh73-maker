@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 <div align="center">
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Vedansh+Jaiswal;Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things" />
