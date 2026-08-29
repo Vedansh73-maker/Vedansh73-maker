@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedansh Jaiswal</h1>
 
-<h3 align="center">Full Stack MERN Developer | B.Tech IT Student</h3>
+<h3 align="center">Full Stack MERN Developer | B.Tech CSE Student</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vedansh-jaiswal-8b3baa3b1">
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech IT Student (2023-2027)
+- 🎓 B.Tech CSE Student (2023-2027)
 - 💻 Full Stack MERN Developer
 - 🌱 Currently Learning DSA & Advanced React
 - 🚀 Building Real World Projects
