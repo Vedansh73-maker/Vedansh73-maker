@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Vedansh73-maker/Vedansh73-maker/blob/main/ChatGPT%20Image%20Aug%2029,%202026,%2009_08_24%20PM.png?raw=true" width="100%">
-</p>
+
 <div align="center">
 <p align="center">
 <img src="https://github.com/Vedansh73-maker/Vedansh73-maker/blob/main/ChatGPT%20Image%20Aug%2029,%202026,%2009_08_24%20PM.png?raw=true/>
